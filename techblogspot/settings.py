@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'techblogspotdb',
         'USER': 'root',
-        'PASSWORD': '456atworld',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '3306',
     }
